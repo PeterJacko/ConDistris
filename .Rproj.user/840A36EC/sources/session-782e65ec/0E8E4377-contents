@@ -1,0 +1,4 @@
+Package: ConDistris
+Type: Package
+Title: Designing clinical trials using confidence distributions
+Version: 0.1
