@@ -1,4 +1,29 @@
 Package: ConDistris
-Type: Package
-Title: Designing clinical trials using confidence distributions
+Title: Designing Clinical Trials Using Confidence Distributions
 Version: 0.1
+Authors@R: 
+    c(
+    person(given = "Peter",
+           family = "Jacko",
+           role = c("aut", "cre"),
+           email = "peter.jacko@gmail.com"),
+    person(given = "Guenter",
+           family = "Heimann",
+           role = c("ctb")),
+    person(given = "Tom",
+           family = "Parke",
+           role = c("ctb")),
+    person(given = "Peter",
+           family = "Jacko",
+           role = c("ctb")),
+    person(given = "Peter",
+           family = "Mesenbrink",
+           role = c("ctb")),
+    person(given = "Constantin",
+           family = "Kumaus",
+           role = c("ctb"))
+)
+Description: R code, shiny app and MS Excel spreadsheets for calculations needed to design clinical trials 
+    and other experiments using confidence distributions.
+License: `use_gpl3_license()`
+Encoding: UTF-8
