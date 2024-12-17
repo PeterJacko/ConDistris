@@ -12,15 +12,6 @@ Authors@R:
            role = c("ctb")),
     person(given = "Tom",
            family = "Parke",
-           role = c("ctb")),
-    person(given = "Peter",
-           family = "Jacko",
-           role = c("ctb")),
-    person(given = "Peter",
-           family = "Mesenbrink",
-           role = c("ctb")),
-    person(given = "Constantin",
-           family = "Kumaus",
            role = c("ctb"))
 )
 Description: R code, shiny app and MS Excel spreadsheets for calculations needed to design clinical trials 
