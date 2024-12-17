@@ -5,14 +5,17 @@ Authors@R:
     c(
     person(given = "Peter",
            family = "Jacko",
+           email = "peter.jacko@gmail.com",
            role = c("aut", "cre"),
-           email = "peter.jacko@gmail.com"),
+           comment = c(ORCID = "0000-0003-3376-0260")),
     person(given = "Guenter",
            family = "Heimann",
-           role = c("ctb")),
+           role = c("ctb"),
+           comment = c(ORCID = "0000-0003-4173-4302")),
     person(given = "Tom",
            family = "Parke",
-           role = c("ctb"))
+           role = c("ctb"),
+           comment = c(ORCID = "0009-0009-5322-7763"))
 )
 Description: R code, shiny app and MS Excel spreadsheets for calculations needed to design clinical trials 
     and other experiments using confidence distributions.
