@@ -19,5 +19,5 @@ Authors@R:
 )
 Description: R code, shiny app and MS Excel spreadsheets for calculations needed to design clinical trials 
     and other experiments using confidence distributions.
-License: `use_gpl3_license()`
+License: GPL-3.0
 Encoding: UTF-8
